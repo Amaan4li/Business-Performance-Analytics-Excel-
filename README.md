@@ -86,7 +86,7 @@ The objective was to convert raw transactional and financial data into meaningfu
 
 ## 🚀 Why This Project Matters
 
-This project highlights applied Excel analytics tailored to business reporting scenarios. It showcases proficiency in organizing and managing structured datasets, designing meaningful KPIs, and evaluating financial outcomes. The work demonstrates the analytical foundation expected from a Data Analyst, with a focus on practical problem-solving and performance measurement. 
+This project highlights applied Excel analytics tailored to business reporting scenarios. It showcases proficiency in organizing and managing structured datasets, designing meaningful KPIs, and evaluating financial outcomes. The work demonstrates the analytical foundation expected from a Data Analyst, with a focus on practical problem-solving and performance measurement. [Presentation Vedio](https://www.linkedin.com/feed/update/urn:li:activity:7506554606831788032/)
 
 ---
 
